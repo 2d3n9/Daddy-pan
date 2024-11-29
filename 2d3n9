@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #9AFEFF;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #77BFC7;
+        }
+        p {
+            font-size: 16px;
+            color: #66CDAA;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 20px;
+            cursor: pointer;
+            margin-top: 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Welcome to Daddy pans Web page!</h1>
+    <p>ang page na eto ay gawa ng isang bata na walang magwa sa gabi kaya kong sino kaman wag mong pindutin ang button pls lang ..</p>
+    
+    <!-- Image -->
+    <img src="https://via.placeholder.com/800x400" alt="Placeholder Image">
+    
+    <!-- Button -->
+    <button onclick="showAlert()">putang ina mo wag mo akong hawakan</button>
+</div>
+
+<script>
+    function showAlert() {
+        alert('nag warning ako sau alam ko asan ka nakatira bobo bakit kapa nandito sa web ko alam kona tuloy ip mo kupal.');
+    }
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #9AFEFF;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #77BFC7;
+        }
+        p {
+            font-size: 16px;
+            color: #66CDAA;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 20px;
+            cursor: pointer;
+            margin-top: 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Welcome to Daddy pans Web page!</h1>
+    <p>ang page na eto ay gawa ng isang bata na walang magwa sa gabi kaya kong sino kaman wag mong pindutin ang button pls lang ..</p>
+    
+    <!-- Image -->
+    <img src="https://via.placeholder.com/800x400" alt="Placeholder Image">
+    
+    <!-- Button -->
+    <button onclick="showAlert()">putang ina mo wag mo akong hawakan</button>
+</div>
+
+<script>
+    function showAlert() {
+        alert('nag warning ako sau alam ko asan ka nakatira bobo bakit kapa nandito sa web ko alam kona tuloy ip mo kupal.');
+    }
+</script>
+
+</body>
+</html>
+
